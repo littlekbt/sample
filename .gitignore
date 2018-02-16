@@ -1,0 +1,2 @@
+go/nginx-server-push/conf/certs/*
+!go/nginx-server-push/conf/certs/.keep
